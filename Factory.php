@@ -77,6 +77,3 @@ class Factory
         }
     }
 }
-
-$a =Factory::create(5,5);
-var_dump($a);
